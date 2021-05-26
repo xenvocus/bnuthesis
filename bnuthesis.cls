@@ -2879,7 +2879,7 @@
         }%
         \bnu@chapter{\bnu@abstract@name}%
       \endgroup
-      \sihao
+      \sihao[2]
     \else
       \bnu@chapter*[]{\bnu@abstract@name}%
     \fi
@@ -2921,7 +2921,7 @@
         }
       }%
       \bnu@chapter{\bnu@abstract@name@en}%
-      \sihao%
+      \sihao[2]%
     \else
       \bnu@chapter*[]{\bnu@abstract@name@en}%
     \fi
